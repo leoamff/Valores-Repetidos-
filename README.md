@@ -2,6 +2,4 @@
 
 ## Dupla: Leonardo Amyntas e Luciano Henrique 
 
-### Questão:
-##### Questão 2 (2,0 pontos) Faça um programa modular que: no main, crie uma matriz MxN (utilize #define com M sendo 30 e N sendo 20) 1. 2, no main, exiba um menu com as seguintes opções, onde cada opção deve ser implementada numa função a parte, isto é, fora do main: a. preencha a matriz inteira com valores aleatórios entre 1e 100 gere um vetor (recebido como parâmetro) com tamanho N, onde b. cada posição do vetor será preenchida com o maior valor de cada coluna da matriz também recebida como parâmetro imprima qual ○ índice da linha ou da coluna que tem mais números repetidos. Para entender ○ conceito de números repetidos desejado nesta questão, veja o exemplo da uma linha ou coluna desta matriz: 4, 17 23, 48, 36, 17, 52, 67, 89, 48 29, 14, 75, 83, 38, 56, 17, 91, 64, 71 [existem 5 numeros repetidos, pois aparecem 3 vezes o número 17 e 2 vezes o número 48].
 ##### imprima qual o índice da linha ou da coluna que tem mais números repetidos. Para entender o conceito de números repetidos desejado nesta questão, veja o exemplo da uma linha ou coluna desta matriz: 4, 17, 23, 48, 36, 17, 52, 67, 89, 48, 29, 14, 75, 83, 38, 56, 17, 91, 64, 71 [existem  5 números repetidos, pois aparecem 3 vezes o número 17 e 2 vezes o número 48]
